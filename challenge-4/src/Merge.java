@@ -1,7 +1,7 @@
 
 public class Merge {
 public static void main(String[] args) {
-	int a=10,b=20;
-	System.out.println(a+b);
+	int data1=10,data2=20;
+	System.out.println(data1+data2);
 }
 }
